@@ -52,9 +52,3 @@ https://www.facebook.com/story.php?story_fbid=1242844781331690&id=10006818539551
 4. **Action Item**: The immediate next step the user must take in Canva.
 
 Validate: □ Stress Test passed. □ No Flattery. □ Market-ready logic.
-
-Next Steps (Reply with Number/Command)
-
-🎓 Justine Lecture: 이 프롬프트를 한국어로 변형해보고 싶다면 요청하세요.
-📱 Promote: 이 전략을 SNS에 홍보할 포스팅을 만듭니다.
-🔄 Critique: 이 프롬프트의 논리적 허점을 분석합니다.
